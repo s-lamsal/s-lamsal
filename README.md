@@ -1,5 +1,5 @@
                                               Hello there!!!
-                                          Its me **SAROJ LAMSAL**
+                                          Its me SAROJ LAMSAL
 
 # 💫 About Me:
 📡 Working on: Front-end projects<br>🤝 Collab on: Web development projects and graphic designs<br>✋ Need help with: UI/UX tips<br>🌱 Learning: Full Stack development<br>⚡ Fun fact: Designer turned coder!
