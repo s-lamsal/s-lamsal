@@ -1,7 +1,7 @@
                                             
 
 # 💫 About Me:
-**SAROJ LAMSAL**
+**SAROJ LAMSAL** <br>
 📡 Working on: Front-end projects<br>🤝 Collab on: Web development projects and graphic designs<br>✋ Need help with: UI/UX tips<br>🌱 Learning: Full Stack development<br>⚡ Fun fact: Designer turned coder!
 
 
